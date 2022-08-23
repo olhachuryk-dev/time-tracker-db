@@ -1,86 +1,56 @@
 {
-  "work": {
-    "daily": {
-      "current": 5,
-      "previous": 7
+ "daily": {
+    "current": {
+      "work": 5,
+      "play": 1,
+      "study": 0,
+      "exercise": 1,
+      "social": 1,
+      "sefcare": 0
     },
-    "weekly": {
-      "current": 32,
-      "previous": 36
-    },
-    "monthly": {
-      "current": 103,
-      "previous": 128
+    "previous": {
+      "work": 7,
+      "play": 2,
+      "study": 1,
+      "exercise": 1,
+      "social": 3,
+      "sefcare": 1
     }
   },
-  "play": {
-    "daily": {
-      "current": 1,
-      "previous": 2
+  "weekly": {
+    "current": {
+      "work": 32,
+      "play": 10,
+      "study": 4,
+      "exercise": 4,
+      "social": 5,
+      "sefcare": 2
     },
-    "weekly": {
-      "current": 10,
-      "previous": 8
-    },
-    "monthly": {
-      "current": 23,
-      "previous": 29
+    "previous": {
+      "work": 36,
+      "play": 8,
+      "study": 7,
+      "exercise": 5,
+      "social": 10,
+      "sefcare": 2
     }
   },
-  "study": {
-    "daily": {
-      "current": 0,
-      "previous": 1
+  "monthly": {
+    "current": {
+      "work": 32,
+      "play": 10,
+      "study": 4,
+      "exercise": 4,
+      "social": 5,
+      "sefcare": 2
     },
-    "weekly": {
-      "current": 4,
-      "previous": 7
-    },
-    "monthly": {
-      "current": 13,
-      "previous": 19
-    }
-  },
-  "exercise": {
-    "daily": {
-      "current": 1,
-      "previous": 1
-    },
-    "weekly": {
-      "current": 4,
-      "previous": 5
-    },
-    "monthly": {
-      "current": 11,
-      "previous": 18
-    }
-  },
-  "social": {
-    "daily": {
-      "current": 1,
-      "previous": 3
-    },
-    "weekly": {
-      "current": 5,
-      "previous": 10
-    },
-    "monthly": {
-      "current": 21,
-      "previous": 23
-    }
-  },
-  "selfcare": {
-    "daily": {
-      "current": 0,
-      "previous": 1
-    },
-    "weekly": {
-      "current": 2,
-      "previous": 2
-    },
-    "monthly": {
-      "current": 7,
-      "previous": 11
+    "previous": {
+      "work": 36,
+      "play": 8,
+      "study": 7,
+      "exercise": 5,
+      "social": 10,
+      "sefcare": 2
     }
   }
 }
