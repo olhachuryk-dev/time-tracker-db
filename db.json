@@ -37,20 +37,20 @@
   },
   "monthly": {
     "current": {
-      "work": 32,
-      "play": 10,
-      "study": 4,
-      "exercise": 4,
-      "social": 5,
-      "sefcare": 2
+      "work": 103,
+      "play": 23,
+      "study": 13,
+      "exercise": 11,
+      "social": 21,
+      "sefcare": 7
     },
     "previous": {
-      "work": 36,
-      "play": 8,
-      "study": 7,
-      "exercise": 5,
-      "social": 10,
-      "sefcare": 2
+      "work": 128,
+      "play": 29,
+      "study": 19,
+      "exercise": 18,
+      "social": 23,
+      "sefcare": 11
     }
   }
 }
