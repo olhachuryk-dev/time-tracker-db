@@ -6,7 +6,7 @@
       "study": 0,
       "exercise": 1,
       "social": 1,
-      "sefcare": 0
+      "selfcare": 0
     },
     "previous": {
       "work": 7,
@@ -14,7 +14,7 @@
       "study": 1,
       "exercise": 1,
       "social": 3,
-      "sefcare": 1
+      "selfcare": 1
     }
   },
   "weekly": {
@@ -24,7 +24,7 @@
       "study": 4,
       "exercise": 4,
       "social": 5,
-      "sefcare": 2
+      "selfcare": 2
     },
     "previous": {
       "work": 36,
@@ -32,7 +32,7 @@
       "study": 7,
       "exercise": 5,
       "social": 10,
-      "sefcare": 2
+      "selfcare": 2
     }
   },
   "monthly": {
@@ -42,7 +42,7 @@
       "study": 13,
       "exercise": 11,
       "social": 21,
-      "sefcare": 7
+      "selfcare": 7
     },
     "previous": {
       "work": 128,
@@ -50,7 +50,7 @@
       "study": 19,
       "exercise": 18,
       "social": 23,
-      "sefcare": 11
+      "selfcare": 11
     }
   }
 }
